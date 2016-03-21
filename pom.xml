@@ -22,7 +22,6 @@
 		<deployment.name>ping</deployment.name>
 		<failOnMissingWebXml>false</failOnMissingWebXml>
 	</properties>
-	
 	<profiles>
 		<profile>
 			<id>wildfly-development</id>
@@ -40,7 +39,7 @@
 					<plugin>
 						<configuration>
 							<hostname>ec2-54-86-76-58.compute-1.amazonaws.com</hostname>
-							<port>80</port>
+							<port>8080</port>
 								<username>management</username>
 							<password>OSjWAod1i81D</password>
 						</configuration>
