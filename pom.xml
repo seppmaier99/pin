@@ -24,7 +24,7 @@
 	</properties>
 	<profiles>
 		<profile>
-			<id>wildfly-remote-development</id>
+			<id>wildfly-development</id>
 			<build>
 				<finalName>${deployment.name}</finalName>
 				<plugins>
