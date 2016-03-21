@@ -22,6 +22,7 @@
 		<deployment.name>ping</deployment.name>
 		<failOnMissingWebXml>false</failOnMissingWebXml>
 	</properties>
+	
 	<profiles>
 		<profile>
 			<id>wildfly-development</id>
